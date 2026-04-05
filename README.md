@@ -2,4 +2,4 @@
 
 ## 🛠️Links
 
--🥇[ BPCS ](../BPSC_Base_De_Dados/README.md)
+-🥇[ BPCS ](https://github.com/msikama/BPSC_Base_De_Dados/blob/main/README.md)
