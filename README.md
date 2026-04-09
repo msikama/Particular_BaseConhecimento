@@ -2,4 +2,7 @@
 
 ## 🛠️Links
 
--🥇[Biblioteca](https://github.com/msikama/BaseConhecimentoSuporte/README.md)
+-🥇[Biblioteca](https://github.com/msikama/BaseConhecimentoSuporte/blob/main/README.md)
+
+
+
