@@ -6,5 +6,5 @@
 
 -🥇[Estudos](https://github.com/msikama/BaseConhecimento/blob/main/README.md)
 
-
+-🥇[Minhas Configurações](https://github.com/msikama/MinhasConfiguracoes/blob/main/README.md)
 
