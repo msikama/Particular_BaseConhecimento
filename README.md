@@ -8,3 +8,5 @@
 
 -🥇[Minhas Configurações](https://github.com/msikama/MinhasConfiguracoes/blob/main/README.md)
 
+
+[🔙](https://github.com/msikama/)
